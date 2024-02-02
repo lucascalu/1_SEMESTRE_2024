@@ -8,6 +8,9 @@ cd . = permanece no diretório atual
 cd / = volta para diretório raiz (/)
 mkdir NOME_DO_DIRETORIO = cria um diretório com nome atribuido
 rm -R NOME_DO_DIRETORIO = remove diretórios e arquivos existentes dentro do diretorio
-
-
+sudo COMANDO = executa comando como super usuario
+sudo passwd = altera senha sudo
+useradd NOME_DO_USUARIO = cria usuario
+sudo passwd NOME_DO_USUARIO = altera nome de um determinado usuario
+passwd = altera senha atual
 </pre>
