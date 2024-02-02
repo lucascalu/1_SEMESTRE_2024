@@ -13,4 +13,5 @@ sudo passwd = altera senha sudo
 useradd NOME_DO_USUARIO = cria usuario
 sudo passwd NOME_DO_USUARIO = altera nome de um determinado usuario
 passwd = altera senha atual
+apt = utilizado para instalar software
 </pre>
