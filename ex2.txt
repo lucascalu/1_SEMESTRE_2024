@@ -1,0 +1,13 @@
+1- R=10 kOHMS V = 100 VOLTS  A = ?           
+
+2- R=105 OHMS V = 1500 VOLTS  A = ?
+
+3 R=108 kOHMS V =    A =32 ?
+
+4  R=10 MOHMS V = 100 VOLTS  A = ?
+
+5  R=10000 uOHMS V = 100 VOLTS  A = ?
+
+6 R=10 nOHMS V =  VOLTS  A =350 ?
+
+

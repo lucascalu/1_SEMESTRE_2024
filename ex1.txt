@@ -1,0 +1,18 @@
+1- R=10 OHMS V = 100 VOLTS  A = ?           
+
+2- R=105 OHMS V = 1500 VOLTS  A = ?
+
+3 R=108 OHMS V =    A =32 ?
+
+4  R=10 OHMS V = 100 VOLTS  A = ?
+
+5  R=10000 OHMS V = 100 VOLTS  A = ?
+
+6 R=10 OHMS V =  VOLTS  A =350 ?
+
+7 R= OHMS V = 100 VOLTS  A =22 ?
+
+8 R= OHMS V = 100 VOLTS  A = 100?
+
+9 R= OHMS V = 100 VOLTS  A = 220 ?
+
