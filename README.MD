@@ -1,8 +1,4 @@
 
-<pre>
-Almoço 
-https://forms.gle/1JvcCwbWXy4rn9r39
-</pre>
 
 <h2>Principais comandos</h2>
 
