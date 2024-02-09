@@ -1,6 +1,6 @@
 
 
-<h2>Principais comandos</h2>
+<h2>Principais comandos linux</h2>
 
 <pre>
 ip addr = responsável por listar o endereço de ip de sua máquina
