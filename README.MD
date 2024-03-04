@@ -1,3 +1,5 @@
+<pre> https://www.youtube.com/watch?v=CLlHSIupiSc </pre>
+
 <pre> https://projecthub.arduino.cc/ </pre>
 
 <h2>Principais comandos linux</h2>
